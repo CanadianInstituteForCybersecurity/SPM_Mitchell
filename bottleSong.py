@@ -14,3 +14,5 @@ print("One bottle of beer on the wall, one bottle of beer, take it down pass it 
 beer = beer-1
 
 print("The song is over, thank you for reading it.")
+
+print("Test")
