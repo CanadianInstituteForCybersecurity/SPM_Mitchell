@@ -1,0 +1,11 @@
+os: linux
+language: python
+sudo: false
+python:
+  - "3.8"
+
+script:
+  - python bottleSong.py
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
