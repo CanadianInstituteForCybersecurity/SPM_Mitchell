@@ -12,3 +12,5 @@ while (beer > 1):
 
 print("One bottle of beer on the wall, one bottle of beer, take it down pass it around no more bottles of beer on the wall")
 beer = beer-1
+
+print("The song is over, thank you for reading it.")
